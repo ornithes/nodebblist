@@ -1,0 +1,50 @@
+#footer .sidebar .newsletter-signup {
+	background: none;
+	clear: none;
+	float: left;
+	margin: 10px;
+	padding: 20px 60px 20px 0;
+	width: 460px;
+	font-size: 16px !important;
+}
+
+#mc_embed_signup form {
+	padding: 0 !important;
+}
+
+#mc_embed_signup {
+	background: none !important;
+}
+
+#mc_embed_signup input[type="submit"] {
+	background-color: #f86960 !important;
+	background: #f86960 !important;
+	color: #fff !important;
+	font-size: 14px !important;
+	height: 40px !important;
+	line-height: 40px !important;
+	padding: 0 20px !important;
+	text-decoration: none !important;
+	-webkit-border-radius: 1000px !important;
+	-moz-border-radius: 1000px !important;
+	border-radius: 1000px !important;
+	-webkit-transition: background 0.1s ease-in;
+	-moz-transition: background 0.1s ease-in;
+	-o-transition: background 0.1s ease-in;
+	transition: background 0.1s ease-in;
+	font-family: 'proxima-nova';
+}
+
+#mc_embed_signup input.email {
+	-webkit-border-radius: 3px !important;
+	-moz-border-radius: 3px !important;
+	border-radius: 3px !important;
+	border: 0 !important;
+	padding: 0 10px !important;
+	line-height: 40px !important;
+	height: 40px !important;
+}
+
+.newsletter-signup h3 {
+	color: #fff;
+}
